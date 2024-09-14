@@ -1,5 +1,3 @@
-# granucci
-
 # [![](https://pushme-pullyou.github.io/assets/svg/mark-github.svg )](https://github.com/evereverland/granucci "Source code on GitHub" ) [Granucci]( https://evereverland.github.io/granucci "Home page" ) / [Granucci Read Me]( https://github.com/evereverland/ganucci#readme.md )
 
 
