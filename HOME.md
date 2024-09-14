@@ -1,7 +1,6 @@
 # [Bob Granucci's "Duck Tales"]( https://evereverland.github.io/granucci "Home page" )
 
 
-
 ## Concept
 
 The diary of a San Francisco duck hunter
