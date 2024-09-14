@@ -47,7 +47,7 @@
 			description: document.head.querySelector( "[ name=description ]" ).content +
 			`<p>Release: 2024-09-14<p>`,
 			iconExternalFile: `<img class=infoImg  src="https://pushme-pullyou.github.io/tootoo-2022/assets/icons/icon-external-link.svg">`,
-			iconGitHub: `<img src="https://pushme-pullyou.github.io/tootoo-2022/assets/icons/mark-github.svg">`,
+			iconGitHub: `<img src="https://pushme-pullyou.github.io/assets/svg/mark-github.svg">`,
 			iconInfo: `<img class=infoImg src="https://pushme-pullyou.github.io/tootoo-2022/assets/icons/noun_Information_585560.svg">`,
 			iconRepo: "❦",
 			title:"Bob Granucci's<br>Duck Tales",
@@ -130,6 +130,7 @@
 			//GRV => "GitHub Repo View"
 			GRV.getFiles = GRV.getFilesCurated;
 			//GRV.getFiles = GRV.getFilesAll;
+
 			GRV.init();
 
 			GRVdivIntro.hidden = true;
@@ -139,6 +140,7 @@
 
 
 			FRX.onHashChange();
+
 
 			// if running on server, keeps address bar pointed to latest dev
 
@@ -153,6 +155,12 @@
 				COR.ignoreFolders = [];
 
 			}
+
+			function op() { GRVdet0.open = true; }
+
+
+			setTimeout( op, 1000 );
+
 
 		}
 
