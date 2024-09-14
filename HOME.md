@@ -4,6 +4,7 @@
 
 ## Concept
 
+The diary of a San Francisco duck hunter
 
 ## To Do / Wish List
 
