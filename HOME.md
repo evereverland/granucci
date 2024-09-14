@@ -13,6 +13,10 @@
 
 ## Links of Interest
 
+* http://stgermainducks.com/
+* http://www.stgermainducks.com/Property/property.html
+* http://stgermainducks.com/body_index.html
+* http://stgermainducks.com/Season_Shoots/Contact_Us/contact_us.html
 
 ## Change Log
 
