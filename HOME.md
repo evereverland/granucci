@@ -1,5 +1,6 @@
 # [Bob Granucci's "Duck Tales"]( https://evereverland.github.io/granucci "Home page" )
 
+!()[https://evereverland.github.io/granucci/duck-hunter-memoirs.png]
 
 ## Concept
 
