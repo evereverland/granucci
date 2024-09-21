@@ -54,6 +54,9 @@ We hope you dig Bob’s Duck Hunting Journals as much as Bob enjoyed his experie
 
 ## Change Log
 
+### 2024-09-20
+
+* Add Mia's Introduction
 
 ### 2024-09-14
 
