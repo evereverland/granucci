@@ -33,8 +33,9 @@ But back to those life-affirming themes, here’s a teaser of Bob G’s Journal 
 
 We hope you dig Bob’s Duck Hunting Journals as much as Bob enjoyed his experiences and writing about them—for future readers like you.
 
-* Human being, dearly loved father & husband, avid duck hunter, former Deputy Attorney General, Criminal Division Appeals and Writs Section in the State of California (need to fact check this)
-* Located in northern California, the Suisun Marsh has been referred to as the largest brackish water marsh on the west coast.
+\* Human being, dearly loved father & husband, avid duck hunter, former Deputy Attorney General, Criminal Division Appeals and Writs Section in the State of California (need to fact check this)
+
+\* Located in northern California, the Suisun Marsh has been referred to as the largest brackish water marsh on the west coast.
 
 
 
