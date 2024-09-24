@@ -41,6 +41,7 @@ We hope you dig Bob’s Duck Hunting Journals as much as Bob enjoyed his experie
 
 ## To Do / Wish List
 
+Source and add photos of Bob Granucci and the St Germain Duck Hunting Club
 
 ## Issues
 
@@ -53,6 +54,10 @@ We hope you dig Bob’s Duck Hunting Journals as much as Bob enjoyed his experie
 * http://stgermainducks.com/Season_Shoots/Contact_Us/contact_us.html
 
 ## Change Log
+
+### 2024-09-23
+
+* Final touches
 
 ### 2024-09-20
 
