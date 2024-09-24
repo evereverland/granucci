@@ -2,7 +2,7 @@
 
 <img src="https://evereverland.github.io/granucci/duck-hunter-memoirs.png" width=300 >
 
-## The diary of a San Francisco duck hunter
+## The Diary of a San Francisco Duck Hunter
 
 Greetings Intrepid Digital Explorer,
 
